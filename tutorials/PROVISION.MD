@@ -13,6 +13,8 @@ Este documento detalha a configuração do ambiente de desenvolvimento e introdu
 Os três conceitos fundamentais que você precisa entender são:
 
 * **Commit**: É um "ponto de salvamento" no histórico do projeto. Cada commit é um registro permanente das alterações feitas em um ou mais arquivos. Ele representa um snapshot do estado do projeto naquele momento.
+
+
 * **Message (Mensagem do Commit)**: Todo commit exige uma mensagem descritiva. Essa mensagem deve explicar *o que* foi alterado e *por quê*. Mensagens claras são cruciais para a manutenção do código.
 * **Branch**: É uma linha de desenvolvimento independente. Pense nela como uma cópia do projeto onde você pode trabalhar em uma nova funcionalidade ou corrigir um bug sem afetar a linha principal (geralmente chamada de `main` ou `master`). Após concluir o trabalho, a branch pode ser mesclada de volta à linha principal.
 
