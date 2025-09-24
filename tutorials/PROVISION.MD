@@ -92,3 +92,6 @@ A comunicação entre sua máquina e o GitHub deve ser feita via SSH para segura
 * O arquivo `id_ed25519.pub` é sua chave pública, segura para ser compartilhada e usada em serviços como o GitHub.
 
 Seu ambiente está pronto.
+
+## Próximos passos
+- [Comandos Git](../tutorials/COMMANDS.MD)
