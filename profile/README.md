@@ -11,4 +11,4 @@
 
 🚧 Em construção 🚧
 - [Comandos Git](../tutorials/COMMANDS.MD)
-- [Qualidade de código e ](../tutorials/QC.MD)
+- [Qualidade de código e organização](../tutorials/QC.MD)
