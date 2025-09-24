@@ -13,10 +13,13 @@ Este documento detalha a configuração do ambiente de desenvolvimento e introdu
 Os três conceitos fundamentais que você precisa entender são:
 
 * **Commit**: É um "ponto de salvamento" no histórico do projeto. Cada commit é um registro permanente das alterações feitas em um ou mais arquivos. Ele representa um snapshot do estado do projeto naquele momento.
-
 * **Message (Mensagem do Commit)**: Todo commit exige uma mensagem descritiva. Essa mensagem deve explicar *o que* foi alterado e *por quê*. Mensagens claras são cruciais para a manutenção do código.
+
+![Exemplo de um histórico de commits (péssimo)](images/git_commit_2x.png)
+
 * **Branch**: É uma linha de desenvolvimento independente. Pense nela como uma cópia do projeto onde você pode trabalhar em uma nova funcionalidade ou corrigir um bug sem afetar a linha principal (geralmente chamada de `main` ou `master`). Após concluir o trabalho, a branch pode ser mesclada de volta à linha principal.
 
+![Visualização de branches no Git](images/branches.png)
 
 #### 1.2. GitHub: A Plataforma de Hospedagem
 
@@ -45,7 +48,7 @@ O `prompt de comando` padrão do Windows é limitado. Utilizaremos o **CMDer**, 
 ---
 
 ### 3. Instalação do Git
-
+![](images/imagem-de-destaque-39.png)
 1.  **Download**: Acesse [https://git-scm.com/](https://git-scm.com/) e baixe o instalador para Windows.
 2.  **Instalação**: Execute o arquivo baixado. Prossiga pelo assistente de instalação clicando em "Next". As configurações padrão são adequadas e garantem compatibilidade.
 3.  **Verificação**: Ao final, abra o CMDer e execute o comando:
