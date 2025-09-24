@@ -19,7 +19,7 @@ Os três conceitos fundamentais que você precisa entender são:
 
 * **Branch**: É uma linha de desenvolvimento independente. Pense nela como uma cópia do projeto onde você pode trabalhar em uma nova funcionalidade ou corrigir um bug sem afetar a linha principal (geralmente chamada de `main` ou `master`). Após concluir o trabalho, a branch pode ser mesclada de volta à linha principal.
 
-![Visualização de branches no Git](images/transparent.png)
+![](images/git_branch_merge.png)
 
 #### 1.2. GitHub: A Plataforma de Hospedagem
 
