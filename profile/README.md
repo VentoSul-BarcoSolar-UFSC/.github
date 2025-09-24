@@ -7,7 +7,7 @@
 ---
 
 ## Tutoriais
-- [Primeiros passos (**Provision**)](.github/PROVISION.MD)
+- [Primeiros passos (**Provision**)](.github/tutorials/PROVISION.MD)
 
 🚧 Em construção 🚧
 - [Comandos Git](.github/COMMANDS.MD)
