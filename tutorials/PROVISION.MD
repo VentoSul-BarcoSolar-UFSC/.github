@@ -19,7 +19,7 @@ Os três conceitos fundamentais que você precisa entender são:
 
 * **Branch**: É uma linha de desenvolvimento independente. Pense nela como uma cópia do projeto onde você pode trabalhar em uma nova funcionalidade ou corrigir um bug sem afetar a linha principal (geralmente chamada de `main` ou `master`). Após concluir o trabalho, a branch pode ser mesclada de volta à linha principal.
 
-![Visualização de branches no Git](images/branches.png)
+![Visualização de branches no Git](images/transparent.png)
 
 #### 1.2. GitHub: A Plataforma de Hospedagem
 
@@ -68,7 +68,7 @@ A comunicação entre sua máquina e o GitHub deve ser feita via SSH para segura
 1.  **Abra o CMDer**.
 2.  **Execute o comando de geração**, substituindo pelo seu e-mail do GitHub:
     ```bash
-    ssh-keygen -t ed25519 -C "seu_email@exemplo.com"
+    ssh-keygen -t ed25519 -C "seu_email@ventosulbigode.com"
     ```
 3.  **Local do Arquivo**: O terminal perguntará onde salvar a chave. Pressione `Enter` para usar o caminho padrão.
 4.  **Passphrase (Senha)**: Será solicitado que você crie uma senha para a chave. **É uma etapa de segurança crítica. Crie uma senha forte.** Você precisará digitá-la para confirmar.
