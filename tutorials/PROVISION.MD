@@ -35,11 +35,12 @@ O setup a seguir é exclusivo para **Windows**.
 > **Usuários Linux/macOS**: Não siga este guia. Entre em contato com um membro efetivado da equipe de software para receber orientação específica para sua distribuição.
 
 #### 2.1. CMDer: O Terminal
+![](images/Cmder-destaque.png)
 
 O `prompt de comando` padrão do Windows é limitado. Utilizaremos o **CMDer**, um emulador de console que integra o Git Bash e permite o uso de comandos Linux, essenciais para o fluxo de trabalho de desenvolvimento.
 
 * **Instalação**: Para entender o que é o CMDer e como instalá-lo, assista a este vídeo: [CMDer - O melhor terminal para Windows](https://www.youtube.com/watch?v=Ebs9Z61jWl0).
-* **Use o CMDer para todos os comandos a seguir.**
+* **Use o CMDer para todos os comandos a seguir.** (**IMPORTANTE:** Não utilize o Cmder em modo admin!)
 
 ---
 
