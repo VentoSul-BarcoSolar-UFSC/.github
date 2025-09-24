@@ -7,8 +7,8 @@
 ---
 
 ## Tutoriais
-- [Primeiros passos (**Provision**)](../.github/tutorials/PROVISION.MD)
+- [Primeiros passos (**Provision**)](../tutorials/PROVISION.MD)
 
 🚧 Em construção 🚧
-- [Comandos Git](.github/COMMANDS.MD)
-- [Qualidade de código e ](.github/QC.MD)
+- [Comandos Git](../tutorials/COMMANDS.MD)
+- [Qualidade de código e ](../tutorials/QC.MD)
