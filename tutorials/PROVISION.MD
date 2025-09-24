@@ -1,7 +1,7 @@
 # Guia de Configuração: Git e GitHub para Windows
 
 Este documento detalha a configuração do ambiente de desenvolvimento e introduz os conceitos fundamentais de Git que utilizaremos.
-test
+
 ---
 
 ### 1. Ferramentas Essenciais: Git e GitHub
