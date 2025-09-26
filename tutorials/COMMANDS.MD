@@ -84,7 +84,8 @@ ventosul@bigode:/c/Users/SeuUsuario/projects$
 ```
 
 #### 3.2. Clonando o Repositório
-
+![](images/calouros.png)
+[Repo dos calouros](https://github.com/VentoSul-BarcoSolar-UFSC/calouros-software). Clique no link e copie a chave SSH da repo de treinamento.
 **1. `git clone`**
 O comando `git clone` faz uma cópia exata de um repositório do GitHub para a sua máquina local. Como você já configurou sua chave SSH no passo anterior, o GitHub não pedirá sua senha.
 
