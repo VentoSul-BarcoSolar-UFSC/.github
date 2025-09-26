@@ -60,5 +60,5 @@ LICENSE   README.md   docs   sensor   svr_model   webpage
 
 ---
 
-Para aprofundar seus conhecimentos sobre o terminal e praticar mais comandos, este recurso interativo é excelente:
+Para aprofundar seus conhecimentos sobre o terminal e praticar mais comandos:
 * [Linux Journey: The Shell](https://labex.io/lesson/the-shell)
