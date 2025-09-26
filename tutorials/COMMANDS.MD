@@ -22,3 +22,43 @@ Mostra o caminho completo da pasta em que você está no momento. É útil para 
 ```bash
 ventosul@bigode:~$ pwd
 /home/ventosul/projects
+```
+
+#### `ls` (List)
+Lista todos os arquivos e pastas no diretório atual.
+
+* `ls -lha`: Mostra a lista em formato detalhado (`-l`), incluindo arquivos ocultos (`-a`) e com tamanhos legíveis (`-h`).
+
+```bash
+ventosul@bigode:~/projects$ ls
+controle-telemetria-2025   vs-research
+```
+
+#### `cd` (Change Directory)
+Muda de um diretório para outro.
+
+* `cd nome-da-pasta`: Entra na pasta especificada.
+* `cd ..`: Sobe um nível no diretório (vai para a pasta "pai").
+* `cd ~` ou `cd`: Volta para o seu diretório inicial (home).
+
+```bash
+ventosul@bigode:~/projects$ cd controle-telemetria-2025/
+
+ventosul@bigode:~/projects/controle-telemetria-2025$ ls
+LICENSE   README.md   sensor   svr_model   webpage
+```
+
+#### `mkdir` (Make Directory)
+Cria um novo diretório (uma nova pasta).
+
+```bash
+ventosul@bigode:~/projects/controle-telemetria-2025$ mkdir docs
+
+ventosul@bigode:~/projects/controle-telemetria-2025$ ls
+LICENSE   README.md   docs   sensor   svr_model   webpage
+```
+
+---
+
+Para aprofundar seus conhecimentos sobre o terminal e praticar mais comandos, este recurso interativo é excelente:
+* [Linux Journey: The Shell](https://labex.io/lesson/the-shell)
